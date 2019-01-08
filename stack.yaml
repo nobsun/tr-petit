@@ -1,0 +1,7 @@
+resolver: lts-13.2
+
+packages:
+- .
+
+extra-deps:
+- optparse-declarative-0.3.0
